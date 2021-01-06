@@ -1,0 +1,6 @@
+name: EconomyMonitor
+version: ${project.version}
+main: com.miketheshadow.economymonitor.EconomyMonitor
+api-version: 1.16
+depend: [ Vault ]
+authors: [ Miketheshadow ]
